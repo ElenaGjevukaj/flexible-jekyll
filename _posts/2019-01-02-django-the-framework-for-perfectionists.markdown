@@ -3,9 +3,7 @@ layout: post
 title: Django: The Web framework for perfectionists  
 date: 2019-01-02 00:00:00 +0300
 description: description (optional)
-img: django.jpg # Add image post (optional)
-
-
+img: django.jpg 
 
 ---
 
