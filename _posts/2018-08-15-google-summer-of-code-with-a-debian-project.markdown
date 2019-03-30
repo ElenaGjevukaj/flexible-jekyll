@@ -6,25 +6,6 @@ description: Google Summer of Code with a Debian Project
 img: debian.jpeg # Add image post (optional)
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-**WHAT IS GOOGLE SUMMER OF CODE?**
 
 Google Summer of Code is a global program focused on bringing more student developers into open source software development.
 Undergrads, students in graduate programs, PhD candidates can take part in GSoC.
