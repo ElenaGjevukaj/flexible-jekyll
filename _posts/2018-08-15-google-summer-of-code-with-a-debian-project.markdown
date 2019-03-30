@@ -7,8 +7,6 @@ img: gsoc.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
-
-<p style='text-align: justify;'>
   
  ![](/assets/debian.jpg)
   
@@ -40,4 +38,3 @@ The learning experience in large-scale open source projects is truly unparallele
 
 Thank you for reading my article. In case you are curious about my tasks you can check work progress [here](https://wiki.debian.org/ElenaGjevukaj) and the code [here](https://salsa.debian.org/users/ElenaGjevukaj-guest/projects).
 
-</p>
