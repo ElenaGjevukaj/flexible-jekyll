@@ -11,12 +11,9 @@ CoderGals Hackathon took place in the beautiful city of Prizren, Kosovo.
 This hackathon was held for 3 days, and it's idea  started from two girls majoring in Computer Science, Qendresa and Albiona Hoti. 
 The event was open to computer programmers and other people who are involved in software development, including graphic designers, interface designers, project managers and others, who often collaborate intensively on building software projects.
 
+Over 70 applications came through for the event, but due to the limitations of the space, only 26 of them were able to be part of the hackathon, which had the chance to work on exciting projects as well as be mentored by key tech people including: Mergim Cahani, Taulant Mehmeti, Mergim Krasniqi, Kolos Pukaj, Bujar Dervishaj, Arta Shehu Zaimi and Edon Bajrami.
 
 ![GitHub Logo](/assets/img/2.jpg)
-        
-      
-      
-Over 70 applications came through for the event, but due to the limitations of the space, only 26 of them were able to be part of the hackathon, which had the chance to work on exciting projects as well as be mentored by key tech people including: Mergim Cahani, Taulant Mehmeti, Mergim Krasniqi, Kolos Pukaj, Bujar Dervishaj, Arta Shehu Zaimi and Edon Bajrami.
 
 The first day of the event was designated to be the day where the mentors and the participants would work together and decide what kind of projects they would feel more comfortable to work on. After a two hour discussion, the groups were formed and the projects were decided. It turned out that the participants would work on open source projects, which means that they would be able to work on programs whose source code is made available for use or modification. There were five groups of 5-6 people each.
 
