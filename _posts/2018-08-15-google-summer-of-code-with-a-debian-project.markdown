@@ -10,7 +10,7 @@ tags: [Holidays, Hawaii]
 
 <p style='text-align: justify;'>
   
- ![](debian.jpg)
+ ![](/assets/debian.jpg)
   
 **WHAT IS GOOGLE SUMMER OF CODE?**
 
