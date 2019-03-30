@@ -6,7 +6,7 @@ description: CoderGals Hackathon
 keywords: 'markdown, typography components, dummy content'
 ---
 
-<img src="https://elenagjevukaj.github.io/assets/images/20708297_141895606405235_6461713773095992346_n.png">
+<img src="flexible-jekyll/assets/img/1.jpg">
 
 CoderGals Hackathon was organized for the first time in my country. This event took place in the beautiful city of Prizren. 
 This hackathon held for 24 to 48 hours, was an idea which started from two girls majoring in Computer Science, Qendresa and Albiona Hoti. 
