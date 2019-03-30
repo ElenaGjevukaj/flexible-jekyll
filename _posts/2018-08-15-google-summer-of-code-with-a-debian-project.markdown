@@ -7,6 +7,7 @@ img: debian.jpeg # Add image post (optional)
 
 ---
 
+
 Google Summer of Code is a global program focused on bringing more student developers into open source software development.
 Undergrads, students in graduate programs, PhD candidates can take part in GSoC.
 Due to the prestigiousness of the program and the weight of Google’s name to go with it, acceptance into the program is no easy task.
