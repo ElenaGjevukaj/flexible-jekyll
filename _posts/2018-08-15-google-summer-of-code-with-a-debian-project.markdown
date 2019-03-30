@@ -7,7 +7,7 @@ img: gsoc.png # Add image post (optional)
 
 ---
   
- ![fg](/assets/debian.jpeg)
+ ![](/assets/debian.jpeg)
   
 **WHAT IS GOOGLE SUMMER OF CODE?**
 
