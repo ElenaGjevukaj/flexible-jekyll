@@ -12,10 +12,10 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Elena Gjevukaj # add your name
 author-img: profile.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: elenagjevukaj add your Twitter handle
-social-facebook: elenagjevukaj add your Facebook handle
-social-github: elenagjevukaj # add your Github handle
-social-linkedin: elenagjevukaj add your Linkedin handle
+social-twitter: www.twitter.com/elenagjevukaj add your Twitter handle
+social-facebook: www.facebook.com/elenagjevukaj add your Facebook handle
+social-github: www.github.com/elenagjevukaj # add your Github handle
+social-linkedin: www.linkedin.com/in/elenagjevukaj/ add your Linkedin handle
 social-email: gjevukaje@gmail.com add your Email address
 
 # Disqus
