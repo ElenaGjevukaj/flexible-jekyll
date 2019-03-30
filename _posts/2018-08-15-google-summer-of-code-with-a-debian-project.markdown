@@ -4,8 +4,7 @@ title: Google Summer of Code with a Debian Project
 date: 2018-08-15 10:04:01 +0100
 description: Google Summer of Code with a Debian Project
 img: gsoc.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+
 ---
   
  ![](/assets/debian.jpg)
@@ -23,7 +22,7 @@ Open source organizations are the backbone of the FOSS culture, which promotes f
 
 **MY PROJECT FOR GSOC 2018**
 
-My project was [Wizard/GUI]https://salsa.debian.org/new-contributor-wizard-team/new-contributor-wizard helping students/interns apply and get started and the final application is named New Contributor Wizard. It originated as the brainchild and Project Idea of my mentor Daniel Pocock for GSoC 2018 under Debian. 
+My project was [Wizard/GUI](https://salsa.debian.org/new-contributor-wizard-team/new-contributor-wizard) helping students/interns apply and get started and the final application is named New Contributor Wizard. It originated as the brainchild and Project Idea of my mentor Daniel Pocock for GSoC 2018 under Debian. 
 New Contributor Wizard is a GUI application build to help new contributors get started with Open Source. It was an idea to bring together all the Tools and Tutorials necessary for a person to learn and start contributing to Open Source. 
 The application contains different courseware sections like Communication, Version Control System etc. and within each section, there are respective Tools and Tutorials.
 
