@@ -8,7 +8,8 @@ keywords: 'markdown, typography components, dummy content'
 ---
 
 CoderGals Hackathon took place in the beautiful city of Prizren, Kosovo. 
-This hackathon held for 24 to 48 hours, was an idea which started from two girls majoring in Computer Science, Qendresa and Albiona Hoti. The event was open to computer programmers and other people who are involved in software development, including graphic designers, interface designers, project managers and others, who often collaborate intensively on building software projects.
+This hackathon was held for 3 days, and it's idea  started from two girls majoring in Computer Science, Qendresa and Albiona Hoti. 
+The event was open to computer programmers and other people who are involved in software development, including graphic designers, interface designers, project managers and others, who often collaborate intensively on building software projects.
 
 
 ![](2.jpg)
