@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Django: The Web framework for perfectionists  
-date: 2019-01-02 00:00:00 +0300
-description: description (optional)
+title: Django - The Web framework for perfectionists  
+date: 2019-01-02 10:04:01 +0100
+description: Django - The Web framework for perfectionists
 img: django.jpg 
 
 ---
-
 Django is an extremely popular and fully featured server-side web framework, written in Python. 
 The framework itself has very much detailed and properly arranged documentation. It also has its own tutorial series which will help new users learn basics of Django by doing small projects.
 
