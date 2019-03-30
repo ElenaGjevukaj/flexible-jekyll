@@ -7,32 +7,30 @@ img: 1.jpg
 keywords: 'markdown, typography components, dummy content'
 ---
 
-CoderGals Hackathon was organized for the first time in my country. This event took place in the beautiful city of Prizren. 
-This hackathon held for 24 to 48 hours, was an idea which started from two girls majoring in Computer Science, Qendresa and Albiona Hoti.  
-Thanks to them, we had the chance to work on exciting projects as well as be mentored by key tech people including: Mergim Cahani, Daniel Pocock, Taulant Mehmeti, Mergim Krasniqi, Kolos Pukaj, Bujar Dervishaj, Arta Shehu Zaimi and Edon Bajrami.
+CoderGals Hackathon took place in the beautiful city of Prizren, Kosovo. 
+This hackathon held for 24 to 48 hours, was an idea which started from two girls majoring in Computer Science, Qendresa and Albiona Hoti. The event was open to computer programmers and other people who are involved in software development, including graphic designers, interface designers, project managers and others, who often collaborate intensively on building software projects.
+
 
 ![](2.jpg)
       
+Over 70 applications came through for the event, but due to the limitations of the space, only 26 of them were able to be part of the hackathon, which had the chance to work on exciting projects as well as be mentored by key tech people including: Mergim Cahani, Taulant Mehmeti, Mergim Krasniqi, Kolos Pukaj, Bujar Dervishaj, Arta Shehu Zaimi and Edon Bajrami.
 
-We discussed many ideas that ranged from Doppler effect to GUI interfaces for phone calls. Finally we ended up making an project for linking the PC with your phone so it will ease the procedure not to use both when you need to add a contact, make a call or even sent text messages. We called it Phone Client project. 
+The first day of the event was designated to be the day where the mentors and the participants would work together and decide what kind of projects they would feel more comfortable to work on. After a two hour discussion, the groups were formed and the projects were decided. It turned out that the participants would work on open source projects, which means that they would be able to work on programs whose source code is made available for use or modification. There were five groups of 5-6 people each.
+
+The second day was focused on coding. During this day, the groups were able to finish their projects and manage to make a short presentation for the next day.
+
+The third day was focused on presenting the projects that have been built. After finalizing the details from the previous day, each group would make a 5 minutes presentation about their project. 
+
+Those projects can also be checked out online:
+
+https://github.com/egzonar/PhoneClient
+https://github.com/dhurataK/codergals
+https://github.com/shejza/phonevideocall
+https://github.com/vjosash/js-commmunicator-plugin
+While there were also presents for other participants from the hackathon, the organizers of CoderGals decided to choose three of the best groups and give them prizes donated from Gjirafa50.com.      
 
 
-[]({{site.baseurl}}/assets/img/3.jpg">
+![](3.jpg)
 
-You can check our work online:
-
-Phone Client 
-
-[https://github.com/egzonar/PhoneClient](https://github.com/egzonar/PhoneClient)
-
-It was a challenge for us because we worked for the first time on Debian OS.
-
-Projects that other girls worked on: 
-
-[https://github.com/dhurataK/codergals](https://github.com/dhurataK/codergals)
-
-[https://github.com/shejza/phonevideocall](https://github.com/shejza/phonevideocall)
-
-[https://github.com/vjosash/js-commmunicator-plugin](https://github.com/vjosash/js-commmunicator-plugin) 
 
 -------------------------------------------------------------------------------------------------------------------
