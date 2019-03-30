@@ -12,7 +12,9 @@ This hackathon was held for 3 days, and it's idea  started from two girls majori
 The event was open to computer programmers and other people who are involved in software development, including graphic designers, interface designers, project managers and others, who often collaborate intensively on building software projects.
 
 
-![](2.jpg)
+![GitHub Logo](/assets/img/2.jpg)
+        
+      
       
 Over 70 applications came through for the event, but due to the limitations of the space, only 26 of them were able to be part of the hackathon, which had the chance to work on exciting projects as well as be mentored by key tech people including: Mergim Cahani, Taulant Mehmeti, Mergim Krasniqi, Kolos Pukaj, Bujar Dervishaj, Arta Shehu Zaimi and Edon Bajrami.
 
