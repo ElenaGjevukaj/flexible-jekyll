@@ -3,11 +3,11 @@ layout: post
 title: Google Summer of Code with a Debian Project
 date: 2018-08-15 10:04:01 +0100
 description: Google Summer of Code with a Debian Project
-img: gsoc.jpg # Add image post (optional)
+img: gsoc.png # Add image post (optional)
 
 ---
   
- ![fg](/assets/debian.jpg)
+ ![fg](/assets/debian.jpeg)
   
 **WHAT IS GOOGLE SUMMER OF CODE?**
 
