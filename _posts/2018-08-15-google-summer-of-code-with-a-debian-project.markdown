@@ -3,7 +3,7 @@ layout: post
 title: Google Summer of Code with a Debian Project
 date: 2018-08-15 10:04:01 +0100
 description: Google Summer of Code with a Debian Project
-img: debian.jpg # Add image post (optional)
+img: gsoc.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
