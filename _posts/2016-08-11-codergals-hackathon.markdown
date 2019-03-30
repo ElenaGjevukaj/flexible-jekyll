@@ -7,8 +7,8 @@ img: 1.jpg
 keywords: 'markdown, typography components, dummy content'
 ---
 
-<img src="flexible-jekyll/assets/img/1.jpg">
 
+({{site.baseurl}}/assets/img/2.jpg">
 CoderGals Hackathon was organized for the first time in my country. This event took place in the beautiful city of Prizren. 
 This hackathon held for 24 to 48 hours, was an idea which started from two girls majoring in Computer Science, Qendresa and Albiona Hoti. 
 
