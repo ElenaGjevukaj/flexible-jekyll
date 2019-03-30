@@ -3,6 +3,7 @@ layout: post
 title: CoderGals Hackathon
 date: 2016-08-11 10:04:01 +0100
 description: CoderGals Hackathon
+img: 1.jpg
 keywords: 'markdown, typography components, dummy content'
 ---
 
