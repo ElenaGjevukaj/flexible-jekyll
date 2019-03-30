@@ -27,8 +27,6 @@ The application contains different courseware sections like Communication, Versi
 
 Now our project [New Contributor Wizard](https://salsa.debian.org/new-contributor-wizard-team/new-contributor-wizard) is ready for the users who would like to get started with Open Source as well as to the folks who would like to contribute Tools and Tutorials to the application as well. I'am definitely planning to come back and contribute more to this project and in open soruce community. 
 
-I successfully finished Google Summer of Code!
-
 Google Summer of Code is a great opportunity for students to work on a project that truly matters. 
 The learning experience in large-scale open source projects is truly unparalleled. Not only do you improve your coding skills but also nail a whole bunch of other technical skills and ways to communicate with people scattered in different time-zones around the world without once meeting in person.
 
