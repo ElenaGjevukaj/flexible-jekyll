@@ -23,13 +23,13 @@ The third day was focused on presenting the projects that have been built. After
 
 Those projects can also be checked out online:
 
-https://github.com/egzonar/PhoneClient
+[Phone Client](https://github.com/egzonar/PhoneClient)
 
-https://github.com/dhurataK/codergals
+[Phone Video Call](https://github.com/dhurataK/codergals)
 
-https://github.com/shejza/phonevideocall
+[Phone Video Call 2](https://github.com/shejza/phonevideocall)
 
-https://github.com/vjosash/js-commmunicator-plugin
+[JS Communicator Plugin](https://github.com/vjosash/js-commmunicator-plugin)
 
 While there were also presents for other participants from the hackathon, the organizers of CoderGals decided to choose three of the best groups and give them prizes donated from Gjirafa50.com.      
 
