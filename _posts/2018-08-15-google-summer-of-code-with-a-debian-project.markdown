@@ -19,7 +19,7 @@ Open source organizations are the backbone of the FOSS culture, which promotes f
 
 **Kosovo for the first time in GSoC**
 
-This year was the very first time that anyone from my contry pariticipated in this program. Funny enough, even when me and my friends applied for the internship, we had to ask Google to add our contry in the list. 
+This year was the very first time that anyone from my contry pariticipated in this program. 
 The students that got accepted were Diellza Shabani, Enkelena Haxhiu and me. 
 
 
