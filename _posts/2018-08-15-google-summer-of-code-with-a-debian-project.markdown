@@ -19,6 +19,7 @@ Open source organizations are the backbone of the FOSS culture, which promotes f
 
 **KOSOVO FOR THE FIRST TIME IN GSOC**
 
+
 2018 was the very first time that someone from my contry pariticipated in this program. 
 The students that got accepted were Diellza Shabani, Enkelena Haxhiu and me. 
 
