@@ -17,9 +17,8 @@ GSoC is based on the model of different organizations providing projects for stu
 
 Open source organizations are the backbone of the FOSS culture, which promotes free and open source software, encourages sharing and collaboration, and tries to make software available to a wider audience by removing monetary restrictions. Some of the best products and tools out there are open source, particularly in the software development world with just about everything from popular IDEs to the programming languages themselves being open source.
 
-**Kosovo for the first time in GSoC**
-
-This year was the very first time that anyone from my contry pariticipated in this program. 
+**KOSOVO FOR THE FIRST TIME IN GSOC**
+2018 was the very first time that someone from my contry pariticipated in this program. 
 The students that got accepted were Diellza Shabani, Enkelena Haxhiu and me. 
 
 
