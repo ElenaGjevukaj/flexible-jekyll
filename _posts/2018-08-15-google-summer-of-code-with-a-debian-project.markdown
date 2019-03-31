@@ -17,9 +17,15 @@ GSoC is based on the model of different organizations providing projects for stu
 
 Open source organizations are the backbone of the FOSS culture, which promotes free and open source software, encourages sharing and collaboration, and tries to make software available to a wider audience by removing monetary restrictions. Some of the best products and tools out there are open source, particularly in the software development world with just about everything from popular IDEs to the programming languages themselves being open source.
 
+**Kosovo for the first time in GSoC**
+
+This year was the very first time that anyone from my contry pariticipated in this program. Funny enough, even when me and my friends applied for the internship, we had to ask Google to add our contry in the list. 
+The students that got accepted were Diellza Shabani, Enkelena Haxhiu and me. 
+
+
 **MY PROJECT FOR GSOC 2018**
 
-My project was [Wizard/GUI](https://salsa.debian.org/new-contributor-wizard-team/new-contributor-wizard) helping students/interns apply and get started and the final application is named New Contributor Wizard. It originated as the brainchild and Project Idea of my mentor Daniel Pocock for GSoC 2018 under Debian. 
+My project was [Wizard/GUI](https://salsa.debian.org/new-contributor-wizard-team/new-contributor-wizard) helping students/interns apply and get started and the final application is named New Contributor Wizard. It originated as the brainchild and Project Idea of my mentor [Daniel Pocock](https://danielpocock.com) for GSoC 2018 under Debian. 
 New Contributor Wizard is a GUI application build to help new contributors get started with Open Source. It was an idea to bring together all the Tools and Tutorials necessary for a person to learn and start contributing to Open Source. 
 The application contains different courseware sections like Communication, Version Control System etc. and within each section, there are respective Tools and Tutorials.
 
