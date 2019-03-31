@@ -25,6 +25,7 @@ The students that got accepted were Diellza Shabani, Enkelena Haxhiu and me.
 **MY PROJECT FOR GSOC 2018**
 
 My project was [Wizard/GUI](https://salsa.debian.org/new-contributor-wizard-team/new-contributor-wizard) helping students/interns apply and get started and the final application is named New Contributor Wizard. It originated as the brainchild and Project Idea of my mentor [Daniel Pocock](https://danielpocock.com) for GSoC 2018 under Debian. 
+
 New Contributor Wizard is a GUI application build to help new contributors get started with Open Source. It was an idea to bring together all the Tools and Tutorials necessary for a person to learn and start contributing to Open Source. 
 The application contains different courseware sections like Communication, Version Control System etc. and within each section, there are respective Tools and Tutorials.
 
