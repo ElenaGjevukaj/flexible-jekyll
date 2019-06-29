@@ -24,7 +24,7 @@ Open source organizations are the backbone of the FOSS culture, which promotes f
 The students that got accepted were Diellza Shabani, Enkelena Haxhiu and me. 
 
 
-**MY PROJECT FOR GSOC 2018**
+**PROJECT**
 
 My project was [Wizard/GUI](https://salsa.debian.org/new-contributor-wizard-team/new-contributor-wizard) helping students/interns apply and get started and the final application is named New Contributor Wizard. It originated as the brainchild and Project Idea of my mentor [Daniel Pocock](https://danielpocock.com) for GSoC 2018 under Debian. 
 
@@ -33,7 +33,7 @@ The application contains different courseware sections like Communication, Versi
 
 **CONCLUSION**
 
-Now our project [New Contributor Wizard](https://salsa.debian.org/new-contributor-wizard-team/new-contributor-wizard) is ready for the users who would like to get started with Open Source as well as to the folks who would like to contribute Tools and Tutorials to the application as well. I'am definitely planning to come back and contribute more to this project and in open soruce community. 
+Now our project [New Contributor Wizard](https://salsa.debian.org/new-contributor-wizard-team/new-contributor-wizard) is ready for the users who would like to get started with Open Source as well as to the people who would like to contribute Tools and Tutorials to the application as well. I'am definitely planning to come back and contribute more to this project and in open soruce community. 
 
 Google Summer of Code is a great opportunity for students to work on a project that truly matters. 
 The learning experience in large-scale open source projects is truly unparalleled. Not only do you improve your coding skills but also nail a whole bunch of other technical skills and ways to communicate with people scattered in different time-zones around the world without once meeting in person.
