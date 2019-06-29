@@ -39,5 +39,4 @@ Google Summer of Code is a great opportunity for students to work on a project t
 The learning experience in large-scale open source projects is truly unparalleled. Not only do you improve your coding skills but also nail a whole bunch of other technical skills and ways to communicate with people scattered in different time-zones around the world without once meeting in person.
 
 
-Thank you for reading my article. In case you are curious about my tasks you can check work progress [here](https://wiki.debian.org/ElenaGjevukaj) and the code [here](https://salsa.debian.org/users/ElenaGjevukaj-guest/projects).
 
